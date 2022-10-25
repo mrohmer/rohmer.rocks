@@ -2,6 +2,10 @@
 	import Header from '$lib/components/Header.svelte';
 </script>
 
+<svelte:head>
+	<title>Datenschutz | Matthias Rohmer - Full Stack Web Developer</title>
+</svelte:head>
+
 <a href="/" class="no-underline">
 	<Header />
 </a>
