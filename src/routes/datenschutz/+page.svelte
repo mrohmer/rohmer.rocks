@@ -61,8 +61,10 @@
 	</p>
 	<h2>2. Hosting</h2>
 	<p>
-		Wir hosten die Inhalte unserer Website bei folgendem Anbieter: <a href="https://netlify.com"
-			>Netlify</a
+		Wir hosten die Inhalte unserer Website bei folgendem Anbieter: <a
+			rel="noopener noreferrer nofollow"
+			target="_blank"
+			href="https://netlify.com">Netlify</a
 		>
 	</p>
 	<h3>Externes Hosting</h3>
@@ -92,7 +94,145 @@
 	<p>
 		Netlify, Inc.<br /> 44 Montgomery Street, Suite 300 <br /> San Francisco, California 94104., USA
 	</p>
-	<h2>3. Allgemeine Hinweise und Pflicht&shy;informationen</h2>
+	<h2>3. Web Analytics</h2>
+	<h3>Was ist Web Analytics?</h3>
+	<p>
+		Wir verwenden auf unserer Website Software zur Auswertung des Verhaltens der Website-Besucher,
+		kurz Web Analytics oder Web-Analyse genannt. Dabei werden Daten gesammelt, die der jeweilige
+		Analytic-Tool-Anbieter (auch Trackingtool genannt) speichert, verwaltet und verarbeitet. Mit
+		Hilfe der Daten werden Analysen über das Nutzerverhalten auf unserer Website erstellt und uns
+		als Websitebetreiber zur Verfügung gestellt. Zusätzlich bieten die meisten Tools verschiedene
+		Testmöglichkeiten an. So können wir etwa testen, welche Angebote oder Inhalte bei unseren
+		Besuchern am besten ankommen. Dafür zeigen wir Ihnen für einen begrenzten Zeitabschnitt zwei
+		verschiedene Angebote. Nach dem Test (sogenannter A/B-Test) wissen wir, welches Produkt bzw.
+		welcher Inhalt unsere Websitebesucher interessanter finden. Für solche Testverfahren, wie auch
+		für andere Analytics-Verfahren, können auch Userprofile erstellt werden und die Daten in Cookies
+		gespeichert werden.
+	</p>
+	<h3>Warum betreiben wir Web Analytics?</h3>
+	<p>
+		Mit unserer Website haben wir ein klares Ziel vor Augen: wir wollen für unsere Branche das beste
+		Webangebot auf dem Markt liefern. Um dieses Ziel zu erreichen, wollen wir einerseits das beste
+		und interessanteste Angebot bieten und andererseits darauf achten, dass Sie sich auf unserer
+		Website rundum wohlfühlen. Mit Hilfe von Webanalyse-Tools können wir das Verhalten unserer
+		Websitebesucher genauer unter die Lupe nehmen und dann entsprechend unser Webangebot für Sie und
+		uns verbessern. So können wir beispielsweise erkennen wie alt unsere Besucher durchschnittlich
+		sind, woher sie kommen, wann unsere Website am meisten besucht wird oder welche Inhalte oder
+		Produkte besonders beliebt sind. All diese Informationen helfen uns die Website zu optimieren
+		und somit bestens an Ihre Bedürfnisse, Interessen und Wünsche anzupassen.
+	</p>
+	<h3>Welche Daten werden verarbeitet?</h3>
+	<p>
+		Welche Daten genau gespeichert werden, hängt natürlich von den verwendeten Analyse-Tools ab.
+		Doch in der Regel wird zum Beispiel gespeichert, welche Inhalte Sie auf unserer Website ansehen,
+		auf welche Buttons oder Links Sie klicken, wann Sie eine Seite aufrufen, welchen Browser sie
+		verwenden, mit welchem Gerät (PC, Tablet, Smartphone usw.) Sie die Website besuchen oder welches
+		Computersystem Sie verwenden. Wenn Sie damit einverstanden waren, dass auch Standortdaten
+		erhoben werden dürfen, können auch diese durch den Webanalyse-Tool-Anbieter verarbeitet werden.
+	</p>
+	<p>
+		Zudem wird auch Ihre IP-Adresse gespeichert. Gemäß der Datenschutz-Grundverordnung (DSGVO) sind
+		IP-Adressen personenbezogene Daten. Ihre IP-Adresse wird allerdings in der Regel pseudonymisiert
+		(also in unkenntlicher und gekürzter Form) gespeichert. Für den Zweck der Tests, der Webanalyse
+		und der Weboptimierung werden grundsätzlich keine direkten Daten, wie etwa Ihr Name, Ihr Alter,
+		Ihre Adresse oder Ihre E-Mail-Adresse gespeichert. All diese Daten werden, sofern sie erhoben
+		werden, pseudonymisiert gespeichert. So können Sie als Person nicht identifiziert werden.
+	</p>
+
+	<p>
+		Wie lange die jeweiligen Daten gespeichert werden, hängt immer vom Anbieter ab. Manche Cookies
+		speichern Daten nur für ein paar Minuten bzw. bis Sie die Website wieder verlassen, andere
+		Cookies können Daten über mehrere Jahre speichern.
+	</p>
+	<h3>
+		<span>Dauer der Datenverarbeitung</span>
+	</h3>
+	<p>
+		Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere
+		Informationen dazu haben. Generell verarbeiten wir personenbezogene Daten nur so lange wie es
+		für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist. Wenn es,
+		wie zum Beispiel im Fall von Buchhaltung, gesetzlich vorgeschrieben ist, kann diese
+		Speicherdauer auch überschritten werden.
+	</p>
+	<h3>Widerspruchsrecht</h3>
+	<p>
+		Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Verwendung von
+		Cookies bzw. Drittanbietern zu widerrufen. Das funktioniert entweder über unser
+		Cookie-Management-Tool oder über andere Opt-Out-Funktionen. Zum Beispiel können Sie auch die
+		Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser die Cookies verwalten,
+		deaktivieren oder löschen.
+	</p>
+	<h3>Rechtsgrundlage</h3>
+	<p>
+		Der Einsatz von Web-Analytics setzt Ihre Einwilligung voraus, welche wir mit unserem Cookie
+		Popup eingeholt haben. Diese Einwilligung stellt laut<strong>
+			Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)</strong
+		> die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch
+		Web-Analytics Tools vorkommen kann, dar.
+	</p>
+	<p>
+		Zusätzlich zur Einwilligung besteht von unserer Seite ein berechtigtes Interesse daran, das
+		Verhalten der Websitebesucher zu analysieren und so unser Angebot technisch und wirtschaftlich
+		zu verbessern. Mit Hilfe von Web-Analytics erkennen wir Fehler der Website, können Attacken
+		identifizieren und die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist <strong
+			>Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)</strong
+		>. Wir setzen die Tools gleichwohl nur ein, soweit sie eine Einwilligung erteilt haben.
+	</p>
+	<p>
+		Da bei Web-Analytics-Tools Cookies zum Einsatz kommen, empfehlen wir Ihnen auch das Lesen
+		unserer allgemeinen Datenschutzerklärung zu Cookies. Um zu erfahren, welche Daten von Ihnen
+		genau gespeichert und verarbeitet werden, sollten Sie die Datenschutzerklärungen der jeweiligen
+		Tools durchlesen.
+	</p>
+	<p>
+		Informationen zu speziellen Web-Analytics-Tools, erhalten Sie &#8211; sofern vorhanden &#8211;
+		in den folgenden Abschnitten.
+	</p>
+	<h3>Cloudflare Web Analytics Datenschutzerklärung</h3>
+	<p>
+		Wir nutzen für unsere Website das Analyse-Tool Cloudflare Web Analytics. Dienstanbieter ist das
+		amerikanische Unternehmen Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA.
+	</p>
+	<p>
+		Cloudflare verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach
+		Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den
+		Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und
+		Sicherheit der Datenverarbeitung einhergehen.
+	</p>
+	<p>
+		Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der
+		Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer
+		Datenweitergabe dorthin verwendet Cloudflare sogenannte Standardvertragsklauseln (= Art. 46.
+		Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der
+		EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann
+		den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise
+		in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich
+		Cloudflare, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau
+		einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden.
+		Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den
+		Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: <a
+			href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de"
+			rel="noopener noreferrer nofollow"
+			target="_blank">https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de</a
+		>
+	</p>
+	<p>
+		Mehr Informationen zu den Standardvertragsklauseln bei Cloudflare finden Sie unter <a
+			href="https://www.cloudflare.com/cloudflare_customer_SCCs.pdf"
+			rel="noopener noreferrer nofollow"
+			target="_blank">https://www.cloudflare.com/cloudflare_customer_SCCs.pdf</a
+		>.
+	</p>
+	<p>
+		Mehr über die Daten, die durch die Verwendung von Cloudflare verarbeitet werden, erfahren Sie in
+		der Datenschutzerklärung auf <a
+			href="https://www.cloudflare.com/de-de/privacypolicy/?tid=312328765"
+			rel="noopener noreferrer nofollow"
+			target="_blank">https://www.cloudflare.com/de-de/privacypolicy/</a
+		>.
+	</p>
+
+	<h2>4. Allgemeine Hinweise und Pflicht&shy;informationen</h2>
 	<h3>Datenschutz</h3>
 	<p>
 		Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir
@@ -258,11 +398,24 @@
 		Wenn die SSL- bzw. TLS-Verschl&uuml;sselung aktiviert ist, k&ouml;nnen die Daten, die Sie an uns
 		&uuml;bermitteln, nicht von Dritten mitgelesen werden.
 	</p>
-	<p>
-		Quelle: <a href="https://www.e-recht24.de" rel="noreferrer noopener" target="_blank"
-			>https://www.e-recht24.de</a
-		>
-	</p>
+	<p>Quellen:</p>
+	<ul>
+		<li>
+			<a href="https://www.e-recht24.de" rel="noopener noreferrer nofollow" target="_blank">
+				https://www.e-recht24.de
+			</a>
+		</li>
+		<li>
+			<a
+				href="https://www.adsimple.de/datenschutz-generator/"
+				title="Datenschutz Generator von AdSimple für Deutschland"
+				rel="noopener noreferrer nofollow"
+				target="_blank"
+			>
+				Datenschutz Generator
+			</a> von AdSimple
+		</li>
+	</ul>
 </div>
 
 <style lang="postcss">
