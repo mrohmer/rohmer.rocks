@@ -1,6 +1,8 @@
 <script lang="ts">
 	import '../app.pcss';
 	import PoweredBy from '@rohmer/svelte-base/PoweredBy.svelte';
+	import { dev } from '$app/environment';
+	import { PUBLIC_CLOUDFLARE_TOKEN } from '$env/static/public';
 
 	let footerHeight = 200;
 
@@ -9,6 +11,16 @@
 	const technologies = ['svelte', 'netlify'];
 	const sourceCodeUrl = 'https://github.com/mrohmer/rohmer.rocks';
 </script>
+
+<svelte:head>
+	{#if !dev && PUBLIC_CLOUDFLARE_TOKEN}
+		<script
+			defer
+			src="https://static.cloudflareinsights.com/beacon.min.js"
+			data-cf-beacon={JSON.stringify({ token: PUBLIC_CLOUDFLARE_TOKEN })}
+		></script>
+	{/if}
+</svelte:head>
 
 <div class="z-10 bg-white dark:bg-black pb-2">
 	<slot />
