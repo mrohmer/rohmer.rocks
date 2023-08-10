@@ -40,5 +40,9 @@
 		"typescript": "^5.0.0",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"volta": {
+		"node": "20.5.1",
+		"pnpm": "8.6.7"
+	}
 }
